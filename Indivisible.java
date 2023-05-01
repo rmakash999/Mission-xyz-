@@ -19,10 +19,6 @@ public class Indivisible {
 
             }else{System.out.println(-1);}
 
-   
-
-
-
 
         }
 
